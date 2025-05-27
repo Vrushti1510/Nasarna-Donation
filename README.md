@@ -7,4 +7,4 @@ Implemented React Router to create a smooth multi-page navigation experience, in
 Home, About, Causes, Contact Your Details.
 
 Integrated Web APIs to handle Donor ID, Amount, Date and Time.enabling users to track their own donations in a
-user-friendly dashboard
+user-friendly dashboard.
