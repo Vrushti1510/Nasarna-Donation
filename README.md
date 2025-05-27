@@ -1,4 +1,4 @@
-**Nasarna Donation Web App | React.js, React Router, Redux Toolkit, Tailwind CSS
+#Nasarna Donation Web App
 
 Built a dynamic donation platform where users can explore popular causes and securely contribute, using React.js
 and Redux Toolkit for efficient state management.
@@ -8,3 +8,10 @@ Home, About, Causes, Contact Your Details.
 
 Integrated Web APIs to handle Donor ID, Amount, Date and Time.enabling users to track their own donations in a
 user-friendly dashboard.
+
+## 🛠 Tech Stack
+
+- React.js
+- Redux Toolkit
+- React Router
+- Tailwind CSS
